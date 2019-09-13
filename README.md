@@ -22,14 +22,14 @@ cc.renderWordCloud(username='SuddenlySnowden')
 ## Install
 The code was written for Python3.7+.
 
-As this project is not on PyPI yet, simply clone this repository or a fork.
-
 __Optionally__: Create a Python virtual environment:
 ```
 python -m venv .venv
 source .venv/bin/activate
 ```
 Type `deactivate` when you are done
+
+__Clone this repository__ or install it using `pip install redditcommentcloud`.
 
 __Installing the dependencies__
 ```
