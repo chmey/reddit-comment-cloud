@@ -37,8 +37,8 @@ pip install -r requirements.txt
 ```
 
 __Supply Reddit API credentials__
-This tool requires API credentials for the Reddit API.  
+This tool requires API credentials for the Reddit API.
 Go to https://www.reddit.com/prefs/apps/, create an app and copy the keys.
 
 Copy `redditcommentcloud/config.py.template` to `redditcommentcloud/config.py` and fill in the details.
-Freely choose a presumable unique User-Agent for the bot.
+Freely choose a presumably unique User-Agent for the bot.
